@@ -1,0 +1,4 @@
+Glyphes SDF (format PBF MapLibre) générés à partir de la police Noto Sans Regular.
+Noto Sans : Copyright Google LLC, SIL Open Font License 1.1 (https://openfontlicense.org).
+Conversion : paquet npm qwant-maps-fonts (fontnik / OpenMapTiles fonts).
+Plages embarquées : latin, latin étendu, diacritiques, ponctuation (suffisant pour le français et le malgache).
